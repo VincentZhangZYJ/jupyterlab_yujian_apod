@@ -48,6 +48,7 @@
   "dependencies": {
     "@jupyterlab/application": "^3.0.6",
     "@jupyterlab/apputils": "^3.0.5",
+    "@lumino/messaging": "^1.4.3",
     "@lumino/widgets": "^1.18.0"
   },
   "devDependencies": {
